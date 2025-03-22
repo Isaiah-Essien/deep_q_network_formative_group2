@@ -8,7 +8,7 @@ This project implements a Deep Q-Network (DQN) Agent to play Atari games using S
 
 ## Important Links
 
-1. Link to Document Report: ![Read the report](https://docs.google.com/document/d/1Zi31nB2phCdlBAe-71EXWRT3vDTNPc1vG1QWQffsUVc/edit?usp=sharing)
+1. Link to Document Report: [Read the report](https://docs.google.com/document/d/1Zi31nB2phCdlBAe-71EXWRT3vDTNPc1vG1QWQffsUVc/edit?usp=sharing)
 1. Link to Video Recording: [Watch the game played live](https://drive.google.com/file/d/17qgu97kS4u0JMkmQ9_nCD3hM_wGcs31f/view?usp=sharing)
 1. Link to the CnnPolicy model: [Download and use our model](https://drive.google.com/file/d/1vnySR5izAx4rLfIomgZ6dWA7wxPsb0Yq/view?usp=sharing)
 ---
